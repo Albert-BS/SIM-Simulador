@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SIM-SimuladorAMida:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SIM_SimuladorAMida_jar</output-path>
+    <root id="archive" name="SIM-SimuladorAMida.jar">
+      <element id="module-output" name="SIM-SimuladorAMida" />
+    </root>
+  </artifact>
+</component>

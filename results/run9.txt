@@ -1,0 +1,8 @@
+Nombre de clients que han entrat a la barberia: 31
+Nombre de clients no han pogut entrar perquè la sala d'espera era plena: 0
+Nombre de clients que se n'han anat: 0
+Nombre de clients als que s'ha tallat el pèl: 26
+Nombre de clients als que s'ha rentat el pèl: 26
+Temps mitjà que han estat a la sala d'espera els que s'han quedat: 9.6542845
+Temps mitjà que ha trigat el barber a tallar-los-hi els cabells: 30.756077
+Temps mitjà que ha trigat el barber a rentar-los-hi els cabells: 7.8119664
